@@ -2,8 +2,15 @@ day1_AI/.env
 day2_AI/.env
 day3_AI/.env
 day4_AI/.env
+LLM_Resume_Evaluator/.env
 
 day1_AI/day1/
 day2_AI/day2/
 day3_AI/day3/
 day4_AI/day4/
+LLM_Resume_Evaluator/.venv/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
